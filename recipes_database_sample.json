@@ -1,0 +1,747 @@
+{
+  "categories" : [ {
+    "categoryID" : 1,
+    "imageURL" : "https://nutritiouslife.com/wp-content/uploads/2016/05/go_vegan.jpg",
+    "name" : "Protein",
+    "recipes" : [ {
+      "cal" : 650,
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "date" : 1528760175644,
+      "dietary" : {
+        "gf" : true,
+        "o" : true,
+        "v" : true
+      },
+      "imageURL" : "https://nutritiouslife.com/wp-content/uploads/2016/05/go_vegan.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 35,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it", "Optional: add some olive oil!" ],
+      "rating" : 3.5,
+      "recipeID" : 1,
+      "servings" : 4,
+      "themeColor" : "230,184,0",
+      "title" : "Protein Bowl"
+    }, {
+      "cal" : 525,
+      "cookingInstructions" : [ "Boil quinoa and salt until cooked", "In bowl, combine cooked quinoa, asparagus ribbons and marinated chickpeas", "Sprinkle with pistachios and drizzle with tahini dressing" ],
+      "date" : 1528760175644,
+      "dietary" : {
+        "gf" : true,
+        "hh" : true
+      },
+      "imageURL" : "https://cdn.foodism.co.uk/gallery/5a8acaa1db5e1.jpeg",
+      "ingredients" : [ {
+        "qty" : 15,
+        "type" : "chickpeas, rinsed",
+        "units" : "oz"
+      }, {
+        "qty" : 1.5,
+        "type" : "Lemon juice",
+        "units" : "cup"
+      }, {
+        "qty" : 0.25,
+        "type" : "Salt",
+        "units" : "tsp"
+      }, {
+        "qty" : 0.25,
+        "type" : "Pepper",
+        "units" : "tsp"
+      }, {
+        "qty" : 1,
+        "type" : "Quinoa",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Tahini",
+        "units" : "cup"
+      }, {
+        "qty" : 0.25,
+        "type" : "Fresh Lime Juice",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Fresh Packed Mint Leaves",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Asparagus",
+        "units" : "lb"
+      }, {
+        "qty" : 0.25,
+        "type" : "Shelled Pistachios, chopped",
+        "units" : "cup"
+      } ],
+      "locked" : false,
+      "mintes" : 18,
+      "preparationInstructions" : [ "In bowl, combine chickpeas, lemon zest, lemon juice and pinch each salt and pepper. Let sit 20 minutes or refrigerate overnight, then drain", "Put quinoa and salt together in medium pot", "In blender, puree tahini, lime juice, mint, 1/2 cup water and 1/4 teaspoon salt until smooth, adding additional water if needed; set aside", "With vegetable peeler, shave asparagus into ribbons, peeling from woody end toward tip" ],
+      "rating" : 3.5,
+      "recipeID" : 2,
+      "servings" : 4,
+      "themeColor" : "0,153,115",
+      "title" : "Tahini-Lemon Quinoa with Asparagus Ribbons"
+    }, {
+      "cal" : 600,
+      "cookingInstructions" : [ "Cook each Beyond© patty until browned on each side", "Place ketchup and mustard on bottom bun and the diced unions on the sauce, then the patty, then the tomato, then lettuce, then top bun", "Serve with chips and beer/soda" ],
+      "dietary" : {
+        "hh" : true,
+        "p" : true,
+        "v" : true
+      },
+      "imageURL" : "https://thumbs.dreamstime.com/b/plate-avocado-toast-kale-radish-marble-background-whole-grain-bread-top-view-85868415.jpg",
+      "ingredients" : [ {
+        "qty" : 2,
+        "type" : "Sesame Seed Buns ",
+        "units" : ""
+      }, {
+        "qty" : 2,
+        "type" : "Beyond© Burger Patties",
+        "units" : ""
+      }, {
+        "qty" : 2,
+        "type" : "Romaine Lettuce",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Red Onion",
+        "units" : ""
+      }, {
+        "qty" : 1,
+        "type" : "Medium Red Tomato",
+        "units" : ""
+      }, {
+        "qty" : 4,
+        "type" : "Ketchup",
+        "units" : "tbsp"
+      }, {
+        "qty" : 4,
+        "type" : "Yellow Mustard",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 22,
+      "preparationInstructions" : [ "Dice the onion into small bits and set aside", "Slide the tomato into 1cm slices ", "Cut the romaine lettuce into small slices" ],
+      "rating" : 4,
+      "recipeID" : 3,
+      "servings" : 2,
+      "themeColor" : "153,102,51",
+      "title" : "Beyond© Burger"
+    }, {
+      "cal" : 375,
+      "cookingInstructions" : [ "In a medium skillet or wok over medium-low heat, warm olive oil", "Add onion and stir. Cook for 5-7 minutes, until onion begins to brown", "Add carrots and stir; cook for 3-5 more minutes, until carrot softens", "Pour the tempeh mixture into the pan; stir. Cook for 5 minutes, until tempeh starts to brown", "Add tapioca starch; stir. Cook for 2-3 more minutes, stirring continuously, until sauce thickens", "Spoon the tempeh mixture into each lettuce cup", "Top with sliced green onions and serve" ],
+      "dietary" : {
+        "e" : true,
+        "h" : true,
+        "o" : true,
+        "p" : true
+      },
+      "imageURL" : "https://www.eyecandypopper.com/wp-content/uploads/2017/02/Savory-Cauliflower-Cake-10.jpg",
+      "ingredients" : [ {
+        "qty" : 0.125,
+        "type" : "Package Tempeh",
+        "units" : "oz"
+      }, {
+        "qty" : 0.3333,
+        "type" : "Organic Soy Sauce",
+        "units" : "cup"
+      }, {
+        "qty" : 2.25,
+        "type" : "Coconut Sugar",
+        "units" : "tbsp"
+      }, {
+        "qty" : 1,
+        "type" : "Rice Vinegar",
+        "units" : "tbsp"
+      }, {
+        "qty" : 2,
+        "type" : "Garlic, minced (about 4 cloves)",
+        "units" : "tsp"
+      }, {
+        "qty" : 1.25,
+        "type" : "Sesame oil",
+        "units" : "tsp"
+      }, {
+        "qty" : 0.25,
+        "type" : "Ground ginger",
+        "units" : "tsp"
+      }, {
+        "qty" : 1,
+        "type" : "Olive Oil",
+        "units" : "tbsp"
+      }, {
+        "qty" : 1,
+        "type" : "Onion",
+        "units" : ""
+      }, {
+        "qty" : 1,
+        "type" : "Salt & Pepper",
+        "units" : "tbsp"
+      }, {
+        "qty" : 1,
+        "type" : "Head Lettuce",
+        "units" : ""
+      }, {
+        "qty" : 3,
+        "type" : "Green Onions",
+        "units" : ""
+      } ],
+      "locked" : false,
+      "mintes" : 20,
+      "preparationInstructions" : [ "In a medium bowl or shallow plate, add soy sauce, sugar, vinegar, garlic sesame oil and ginger, and whisk to combine", "Crumble the tempeh into small chunks; place in the soy sauce mixture and stir to coat. Set aside" ],
+      "rating" : 3.5,
+      "recipeID" : 4,
+      "servings" : 3,
+      "themeColor" : "128,26,0",
+      "title" : "Tempeh Lettuce Wrap"
+    }, {
+      "cal" : 500,
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://www.eyecandypopper.com/wp-content/uploads/2013/10/Vegan-Pesto-3.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 70,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 4,
+      "recipeID" : 5,
+      "servings" : 2,
+      "themeColor" : "224, 204, 255",
+      "title" : "Plate of Lentils"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://img.taste.com.au/UHXBGP9m/taste/2016/11/basil-pesto-3733-1.jpeg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 30,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 0,
+      "recipeID" : 6,
+      "themeColor" : "deepPurple",
+      "title" : "Guac and Chili Sauce"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://www.eyecandypopper.com/wp-content/uploads/2013/06/10-min-Summer-Couscous-Salad-3.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 25,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 5,
+      "recipeID" : 7,
+      "themeColor" : "deepPurple",
+      "title" : "Protein Bowl 2"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://asideofsweet.com/wp-content/uploads/2018/02/How-Make-DIY-Fake-Marble-Photography-Backdrop.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 40,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 5,
+      "recipeID" : 8,
+      "themeColor" : "deepPurple",
+      "title" : "Grilled Veggie Platter"
+    }, {
+      "cal" : 550,
+      "cookingInstructions" : [ "Cook and eat" ],
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/recipes-39796.appspot.com/o/recipeImages%2F1527644258542.jpg?alt=media&token=871e5142-ff0c-40d8-a3bb-e01c97e13884",
+      "ingredients" : [ {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tsp"
+      } ],
+      "locked" : false,
+      "mintes" : 5,
+      "preparationInstructions" : [ "Put everything together" ],
+      "rating" : 0,
+      "recipeID" : 9,
+      "servings" : 2,
+      "title" : "Temp",
+      "userID" : "wzDLoqhrnIezrhwpsNyU9yGvTNo2"
+    } ]
+  }, {
+    "categoryID" : 2,
+    "imageURL" : "https://cdn.foodism.co.uk/gallery/5a8acaa1db5e1.jpeg",
+    "name" : "Plates",
+    "recipes" : [ {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://foodrevolution.org/wp-content/uploads/2018/01/blog-featured-veganism1-20180117-1430.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 10,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it", "Optional: add some olive oil!" ],
+      "rating" : 3.5,
+      "recipeID" : 1,
+      "themeColor" : "230,184,0",
+      "title" : "Protein Bowl 2"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 450˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://annetravelfoodie.com/wp-content/uploads/2016/10/vegan-restaurant-Loff-Breda.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 5,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 3.5,
+      "recipeID" : 2,
+      "themeColor" : "blue",
+      "title" : "Great Big Vegan Salad"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://media1.popsugar-assets.com/files/thumbor/hP_O5sLNU3Sskp5LWkk3ZNGPaXY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/11/06/971/n/1922398/b2fcdf2bf0356b9d_IMG_59011-1024x802.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 50,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 3.5,
+      "recipeID" : 3,
+      "themeColor" : "white",
+      "title" : "High Protein Veggie Burger with Ketchup"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://s.abcnews.com/images/Travel/ht_Mango_Stir_Fry_Silver_Diner_BWI_Airport_ll_131113_16x9_992.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 35,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 4,
+      "recipeID" : 4,
+      "themeColor" : "deepOrange",
+      "title" : "Tempeh Lettuce Wrap"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "http://www.vegkitchen.com/wp-content/uploads/2017/07/Farro-Stuffed-peppers3.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : false,
+      "mintes" : 70,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 1,
+      "recipeID" : 5,
+      "themeColor" : "deepPurple",
+      "title" : "Plate of Lentils"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "http://www.tasteloveandnourish.com/wp-content/uploads/2017/02/Vegetable-Jambalaya-2-500x500.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 10,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 0,
+      "recipeID" : 6,
+      "themeColor" : "deepPurple",
+      "title" : "Protein Bowl"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/slow-cooker-vegetable-curry_1.jpg",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 10,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 5,
+      "recipeID" : 7,
+      "themeColor" : "deepPurple",
+      "title" : "Protein Bowl 2"
+    }, {
+      "cookingInstructions" : [ "Preheat the oven to 350˚", "Put the item in the oven", "Leave for 20 minutes" ],
+      "imageURL" : "http://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/03/main/beer-brushed-tofu-skewers-barley-1705p105.jpg?itok=OdHLIfLx",
+      "ingredients" : [ {
+        "qty" : 1.5,
+        "type" : "Lentils",
+        "units" : "cup"
+      }, {
+        "qty" : 0.5,
+        "type" : "Pinto beans",
+        "units" : "cup"
+      }, {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tbsp"
+      } ],
+      "locked" : true,
+      "mintes" : 10,
+      "preparationInstructions" : [ "Get the ingredients out and put them on the table for you to make sure you have everything", "Put them together", "Then eat it" ],
+      "rating" : 5,
+      "recipeID" : 8,
+      "themeColor" : "deepPurple",
+      "title" : "Protein Bowl 3"
+    }, {
+      "cal" : 555,
+      "cookingInstructions" : [ "Test" ],
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/recipes-39796.appspot.com/o/recipeImages%2F1527637482535.jpg?alt=media&token=78d2d6bc-991b-4705-97a1-b1cd9f822054",
+      "ingredients" : [ {
+        "qty" : 1,
+        "type" : "Salt",
+        "units" : "tsp"
+      } ],
+      "locked" : false,
+      "mintes" : 5,
+      "preparationInstructions" : [ "Test" ],
+      "rating" : 0,
+      "recipeID" : 9,
+      "servings" : 2,
+      "title" : "Test recipe",
+      "userID" : "wzDLoqhrnIezrhwpsNyU9yGvTNo2"
+    } ]
+  }, {
+    "categoryID" : 3,
+    "imageURL" : "https://cdn.foodism.co.uk/gallery/5a8acae3d1764.jpeg",
+    "name" : "Veggies"
+  }, {
+    "categoryID" : 4,
+    "imageURL" : "https://www.eyecandypopper.com/wp-content/uploads/2013/06/10-min-Summer-Couscous-Salad-3.jpg",
+    "name" : "Bowls"
+  }, {
+    "categoryID" : 5,
+    "imageURL" : "https://annetravelfoodie.com/wp-content/uploads/2016/10/vegan-restaurant-Loff-Breda.jpg",
+    "name" : "Quick Dinners"
+  } ],
+  "ratings" : {
+    "categoryID-1" : {
+      "recipeID-1" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "My review"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTNo2" : {
+          "rating" : 4,
+          "review" : "My review"
+        }
+      },
+      "recipeID-2" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosI01" : {
+          "rating" : 3.5,
+          "review" : "Wow! This recipe blew my mind. Amazing stuff here"
+        },
+        "88QAR2s9X8dGc9Y2ZzlIGAmosI03" : {
+          "rating" : 3.5,
+          "review" : "I felt this recipe was above average, though it seems like it's missing something. I would recommend adding more vegetables to it, like some tomatoes or cucumber"
+        },
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "date" : 1527529737374,
+          "rating" : 4,
+          "review" : "I made this for my potluck dinner and everyone said they loved it. One person even asked me for the recipe and I showed them the app"
+        },
+        "MvNfWBNZArZKrridiwW05XtFnJL2" : {
+          "date" : 1527623174372,
+          "rating" : 4,
+          "review" : "It’s fantastic! But takes a while to prepare"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTN01" : {
+          "rating" : 4.5,
+          "review" : "Loved it!"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTN04" : {
+          "rating" : 2.5,
+          "review" : "Not one of my favorites, but I might modify it to make give it a little more of my Italian flavor"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTNo2" : {
+          "date" : 1527643646262,
+          "rating" : 4,
+          "review" : "This is my review"
+        }
+      },
+      "recipeID-3" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "My review"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTNo2" : {
+          "date" : 1527577708899,
+          "rating" : 4,
+          "review" : "This is one of my favorite burgers. I've always loved being burger since I became vegan. I also love the impossible burger, so that should be your best recipe!"
+        }
+      },
+      "recipeID-4" : {
+        "MvNfWBNZArZKrridiwW05XtFnJL2" : {
+          "date" : 1527623065889,
+          "rating" : 4,
+          "review" : "This is also a test review"
+        },
+        "wzDLoqhrnIezrhwpsNyU9yGvTNo2" : {
+          "date" : 1527559932852,
+          "rating" : 3,
+          "review" : "Test review"
+        }
+      },
+      "recipeID-5" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "My review"
+        }
+      }
+    },
+    "categoryID-2" : {
+      "recipeID-1" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "Mry review"
+        }
+      },
+      "recipeID-2" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "Mry review"
+        }
+      },
+      "recipeID-3" : {
+        "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+          "rating" : 4,
+          "review" : "Mry review"
+        }
+      }
+    }
+  },
+  "users" : {
+    "113659498011686715909" : {
+      "favorites" : {
+        "categoryID-1" : {
+          "count" : 4,
+          "recipeIDs" : [ 5, 1, 2, 3 ]
+        },
+        "categoryID-2" : {
+          "count" : 1,
+          "recipeIDs" : [ 5 ]
+        }
+      }
+    },
+    "118305106825703050969" : {
+      "favorites" : {
+        "categoryID-1" : {
+          "count" : 4,
+          "recipeIDs" : [ 1, 2, 3, 4 ]
+        },
+        "categoryID-2" : {
+          "count" : 1,
+          "recipeIDs" : [ 4 ]
+        }
+      }
+    },
+    "88QAR2s9X8dGc9Y2ZzlIGAmosI01" : {
+      "userInfo" : {
+        "displayName" : "Mike Wilson"
+      }
+    },
+    "88QAR2s9X8dGc9Y2ZzlIGAmosI03" : {
+      "userInfo" : {
+        "displayName" : "Lauren Tom"
+      }
+    },
+    "88QAR2s9X8dGc9Y2ZzlIGAmosIh2" : {
+      "favorites" : {
+        "categoryID-1" : {
+          "count" : 3,
+          "recipeIDs" : [ 4, 1, 2 ]
+        },
+        "categoryID-2" : {
+          "count" : 1,
+          "recipeIDs" : [ 3 ]
+        }
+      },
+      "userInfo" : {
+        "displayName" : "Jake Hamo"
+      }
+    },
+    "MvNfWBNZArZKrridiwW05XtFnJL2" : {
+      "favorites" : {
+        "categoryID-1" : {
+          "count" : 1,
+          "recipeIDs" : [ 1 ]
+        }
+      },
+      "userInfo" : {
+        "displayName" : "Jarid Goodwin"
+      }
+    },
+    "wzDLoqhrnIezrhwpsNyU9yGvTN01" : {
+      "userInfo" : {
+        "displayName" : "Ivy Connowick"
+      }
+    },
+    "wzDLoqhrnIezrhwpsNyU9yGvTN04" : {
+      "userInfo" : {
+        "displayName" : "Katie Brown"
+      }
+    },
+    "wzDLoqhrnIezrhwpsNyU9yGvTNo2" : {
+      "favorites" : {
+        "categoryID-1" : {
+          "count" : 1,
+          "recipeIDs" : [ 2 ]
+        },
+        "categoryID-2" : {
+          "count" : 1,
+          "recipeIDs" : [ 1 ]
+        }
+      },
+      "recipes" : {
+        "categories" : [ {
+          "recipes" : {
+            "cal" : 520,
+            "cookingInstructions" : [ "Put in oven for 20 minutes", "Enjoy!" ],
+            "imageURL" : "testImageURL",
+            "ingredients" : [ {
+              "qty" : 1,
+              "type" : "Salt",
+              "units" : "tsp"
+            }, {
+              "qty" : 1.5,
+              "type" : "Tomatoes",
+              "units" : "cup"
+            } ],
+            "locked" : false,
+            "mintes" : 5,
+            "preparationInstructions" : [ "Put everything together", "Stir" ],
+            "rating" : 0,
+            "recipeID" : 2,
+            "servings" : 2,
+            "title" : "My title"
+          }
+        } ]
+      },
+      "userInfo" : {
+        "displayName" : "Jake Hamo"
+      }
+    }
+  }
+}
